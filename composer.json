@@ -1,8 +1,18 @@
 {
     "name": "aegisora/json-rule-guardian",
-    "description": "<REPOSITORY_DESCRIPTION>",
+    "description": "Json Rule Guardian provides a simple shortcut for JSON string validation using aegisora/guardian and aegisora/json-rule.",
     "type": "library",
-    "keywords": ["php", "aegisora", "aegisora-ecosystem"],
+    "keywords": [
+        "php",
+        "aegisora",
+        "aegisora-ecosystem",
+        "validation",
+        "guardian",
+        "json",
+        "json-validation",
+        "rule",
+        "rule-guardian"
+    ],
     "homepage": "https://github.com/Aegisora/json-rule-guardian",
     "support": {
         "issues": "https://github.com/Aegisora/json-rule-guardian/issues",
